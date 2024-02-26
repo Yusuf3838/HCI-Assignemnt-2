@@ -23,4 +23,6 @@ Implement a comprehensive analytics dashboard providing real-time insights into 
 Create a central hub within the app that seamlessly integrates with popular productivity tools, calendars, and note-taking apps. This addresses the latent need for enhanced organization and productivity by providing a unified platform for both educational and productivity needs.
 
 Figma File Link: https://www.figma.com/file/yCWu4QkWB6BtK6ym45ZVKD/Assignement2?type=design&node-id=0-1&mode=design&t=TZJcsp36rWAz2XEx-0
+
+
 Video Link: https://sheridanc-my.sharepoint.com/:v:/g/personal/sheikhay_shernet_sheridancollege_ca/EUfoveGUjeJPneJJokHg2G4BpWECMsWFL2tk8D-eEkBwNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tmG3Xs
