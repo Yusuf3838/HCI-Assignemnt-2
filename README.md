@@ -26,3 +26,16 @@ Figma File Link: https://www.figma.com/file/yCWu4QkWB6BtK6ym45ZVKD/Assignement2?
 
 
 Video Link: https://sheridanc-my.sharepoint.com/:v:/g/personal/sheikhay_shernet_sheridancollege_ca/EUfoveGUjeJPneJJokHg2G4BpWECMsWFL2tk8D-eEkBwNg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tmG3Xs
+
+
+
+Initial Prototype
+
+<img width="1278" alt="InitialPrototype" src="https://github.com/Yusuf3838/HCI-Assignemnt-2/assets/65771269/e3d6d110-8941-4e00-a10a-4f45ae4fd102">
+
+New Prototype
+
+<img width="1245" alt="Assignement2" src="https://github.com/Yusuf3838/HCI-Assignemnt-2/assets/65771269/5207b6d5-a854-4589-9317-55df3dddbb33">
+
+
+
