@@ -37,5 +37,9 @@ New Prototype
 
 <img width="1245" alt="Assignement2" src="https://github.com/Yusuf3838/HCI-Assignemnt-2/assets/65771269/5207b6d5-a854-4589-9317-55df3dddbb33">
 
+Final Prototype
+
+<img width="1151" alt="Screenshot 2024-04-02 at 2 46 28 PM" src="https://github.com/Yusuf3838/HCI-Assignemnt-2/assets/65771269/1d5e1c0b-4c93-46ce-a9ae-23768331dcbf">
+
 
 
